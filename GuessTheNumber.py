@@ -1,4 +1,5 @@
-#python-project:-1
+#python-project-1: Guess The Number
+
 import random
 
 number = random.randint(1,10)
