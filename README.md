@@ -7,3 +7,5 @@
 # Project-3: Random Password Generator
 ![image](https://github.com/user-attachments/assets/3df82d54-0bd7-460c-aab3-97dd6a0523d7)
 
+# Project-4: Calculator
+![image](https://github.com/user-attachments/assets/574637bf-2b73-4961-98b8-55e0606c3e5f)
