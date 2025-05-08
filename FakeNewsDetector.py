@@ -1,3 +1,4 @@
+#python-5: FakeNewsDetector
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 
